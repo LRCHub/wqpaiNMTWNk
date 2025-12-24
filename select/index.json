@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "キュートなカノジョ",
+  "base_artist": "syudou",
+  "createdAt": "2025-12-24T02:34:52.438437Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キュートなカノジョ",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/01_キュートなカノジョ_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キュートなカノジョ (feat. 宵崎奏&東雲絵名&巡音ルカ)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_キュートなカノジョ_(feat._宵崎奏&東雲絵名&巡音ルカ)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キュートなカノジョ",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_キュートなカノジョ_syudou.txt"
+    }
+  ]
+}
